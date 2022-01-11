@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yyz
 - 👀 I’m interested in gaming, game-making, programming, manga
-- 🌱 I’m currently learning unity
+- 🌱 I’m currently learning unity, cmake and taking part time graduate studies
 - 📫 How to reach me zibion01@hotmail.com or yuanzhen.yap@gmail.com
 
 <!---
